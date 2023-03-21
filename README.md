@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abal8
 - 👀 I’m interested in ... Web design and Python
-- 🌱 I’m currently learning ... HTML, CSS, Python.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... HTML, CSS, JS & Python.
+- 💞️ I’m looking to collaborate on ... Beginner projects.
 - 📫 How to reach me ... aaronb011@proton.me
 
 <!---
