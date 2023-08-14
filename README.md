@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Abal8
-- 👀 I’m interested in ... Web design and Python
-- 🌱 I’m currently learning ... HTML, CSS, JS & Python.
-- 💞️ I’m looking to collaborate on ... Beginner projects.
-- 📫 How to reach me ... aaronb011@proton.me
+Hi, I’m @Abal8,
 
-<!---
-Abal8/Abal8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My primary focus is on data management, learning the skills to efficiently manipulate, handle, and analyse data for optimization across diverse industries.
+
+I am currently learning Python.
